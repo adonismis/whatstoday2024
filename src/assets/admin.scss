@@ -1,0 +1,37 @@
+// $yellow:                #D89E21;
+// $yellow_light:          #FAF1DD;
+// $brown:                 #A46A13;
+// $blue:                  #144BB8;
+// $red:                   #F2725A;
+// $black:                 #180000;
+// $white:                 #FFFFFF;
+// $grey1D:                #1D1D1D;
+// $grey33:                #333333;
+// $grey66:                #666666;
+// $grey9F:                #9F9F9F;
+// $greyD4:                #D4D4D4;
+// $greyE9:                #E9E9E9;
+// $greyF7:                #F7F7F7;
+
+// $body-color:            $black;
+// $primary:               $yellow;
+// $link-hover-color:      $grey66;
+// $link-color:            $grey66;
+// $link-decoration:       none;
+// $link-hover-decoration: none;
+
+
+// $container-max-widths: (
+//   sm: 540px,
+//   md: 720px,
+//   lg: 960px,
+//   xl: 1296px,
+//   xxl: 1296px
+// );
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+// Then add additional custom code here
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap');
+
